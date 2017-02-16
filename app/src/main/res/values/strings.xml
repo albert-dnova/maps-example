@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapsIntroduction</string>
+    <string name="title_activity_maps_with_fragment">Map</string>
+</resources>
